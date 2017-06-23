@@ -15,5 +15,7 @@ public class Q1 {
                 return o2 - o1;
             }
         });
+
+        // mainスレッドで実行される
     }
 }
